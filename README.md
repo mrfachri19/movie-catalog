@@ -22,7 +22,7 @@ A responsive and user-friendly web application that showcases movies, TV shows, 
 
 ## Demo
 
-*(Link to deployed app: Vercel / Netlify / Heroku)*
+[*(Link to deployed app: Vercel / Netlify / Heroku)*](https://movie-catalog-eight-omega.vercel.app/)
 
 ---
 
